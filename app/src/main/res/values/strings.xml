@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UroControl</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Home page</string>
+    <string name="second_fragment_label">Pouch fullness</string>
+    <string name="GI_fragment_label">General Information</string>
+    <string name="pouch_button">Pouch fullness</string>
+    <string name="db_button">Database</string>
+    <string name="gen_info_button">General information</string>
+    <string name="previous">Go Back</string>
+    <string name="pouchness_not_full">The pouch is not full yet</string>
+    <string name="pouchness_full">The pouch is full</string>
+    <string name="change">change</string>
+
+    <string name="hello_first_fragment">Patient 1</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="imp_info_string">Some important information \n about the patient.</string>
+    <string name="picture_description">picture of patient</string>
+    <string name="gen_info_text">General information \n about the patient. \n like his home address</string>
+</resources>
